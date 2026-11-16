@@ -1,5 +1,11 @@
 # International Cost of Capital — Streamlit app
 
+**Live Streamlit app:** https://international-cost-of-capital-app-rxwc4eafbsijqxbjobyq5y.streamlit.app
+
+**GitHub source:** https://github.com/akdogra1/international-cost-of-capital-app
+
+
+
 A classroom-ready interactive calculator for the cost of equity, pre-tax cost of debt and weighted-average cost of capital (WACC) in U.S. dollars and a target country's currency.
 
 ## Required submission functionality
